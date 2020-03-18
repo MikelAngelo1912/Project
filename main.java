@@ -1,8 +1,8 @@
-class First extends Mo
+class First extends SkroutZ
 { 
     public static void main(String args[]) 
     { 
-        Mo Item1=new Mo();
-        Item1.Average();
+        SkroutZ Item1=new SkroutZ();
+        Item1.Statistically();
     } 
 } 
